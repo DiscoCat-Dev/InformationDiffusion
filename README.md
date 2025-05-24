@@ -116,7 +116,7 @@ The observer may also notice that at the end of the simulation, some grey agents
 
 These are only a few examples and experiments the observer can conduct with the model. There are numerous other interesting patterns to explore, and the author believes this model has great potential for revealing many more emergent patterns resulting from interactions, spatial features, and competition in the diffusion of information.
 
-## Notes on Limitations
+## Note on Limitations
 
 No model can capture all the complexity of the real world — they are simplifications. But even though models are inherently “wrong,” as George E. P. Box famously said, they can still provide valuable insights and be **useful** for understanding patterns, making predictions, and guiding decisions. Mistakes in the model are not only possible — they are expected in any rational exploration of complex systems.
 
