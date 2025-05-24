@@ -122,7 +122,7 @@ No model can capture all the complexity of the real world — they are simplific
 
 ## Citation
 
-If you are going to use this for your research or projects, please consider citing it as: DiscoCat-Dev. (2025). Information Diffusion Model: Simulating the Competition of Multiple Information Sources. [Repository or publication link]. 
+If you are going to use this for your research or projects, please consider citing it as: DiscoCat-Dev. (2025). Information Diffusion Model: Simulating the Competition of Multiple Information Sources. [GitHub Repository](https://github.com/DiscoCat-Dev/InformationDiffusion). 
 
 ## Miscellaneous
 
